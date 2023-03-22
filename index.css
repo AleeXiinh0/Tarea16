@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu&display=swap');
+
+
+@media all and (min-width: 800px) {
+body{max-width: 1000px;
+    margin: 0 auto;
+}
+main p{
+    padding: 1rem;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 2rem;
+}
+header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.pizzafoto{
+    width: 35%;
+    float: left;
+    padding-right: 100px;
+}
+.textoBoton{
+    padding-top: 10px;
+    width: 30%;
+    padding-left: 45%;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-left: 15%;
+}
+
+select{
+    background-color: rgb(238, 236, 236);
+    width: 40%;
+}
+button{
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    box-shadow: 1px 4px 5px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+}
+
+
+
+
+@media all and (max-width: 800px) {
+
+body{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+}
+nav{
+    text-align: center;
+    align-items: center;
+}
+main{
+    text-align: center;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+.pizzafoto{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width: 80%;
+}
+
+select{
+    background-color: rgb(238, 236, 236);
+    width: 30%;
+}
+button{
+    padding: 5px;
+    width: 30%;
+    font-weight: bold;
+    box-shadow: 1px 4px 5px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+.textoBoton{
+    padding-top: 10px;
+    width: 70%;
+    padding-left: 15%;
+}
+
+.uno{
+    display: none;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-left: 20%;
+} 
+
+}
+
+
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.pizzavege{
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+i{
+    cursor: pointer;
+}
+
+
+a:hover{
+    border-bottom: 2px solid black;
+    cursor:grab;
+}
+
+h1:first-letter{
+    color: red;
+}
+.uno{
+    border-radius: 100%;
+    box-shadow: 1px 4px 5px black;
+    background-color: gainsboro;
+    width: 25%;
+    text-align: center;
+    padding: 10px;
+}
+.dos{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+
+.precio{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+select{
+    border-radius: 10px;
+}
