@@ -5,7 +5,7 @@
 ![cr7](https://github.com/AleeXiinh0/Tarea16/blob/main/img/cr7.jpg)
 
 [INFORMACION.MD](https://github.com/AleeXiinh0/Tarea16/blob/main/informacion.md) \
-[INTALACION.MD](https://github.com/AleeXiinh0/Tarea16/blob/main/instalacion.md) \
+[INSTALACION.MD](https://github.com/AleeXiinh0/Tarea16/blob/main/instalacion.md) \
 [Youtube](https://www.youtube.com) \
 [Moodle](https://educacionadistancia.juntadeandalucia.es/centros/almeria/my/) \
 [Google](https://www.google.com/search) \
